@@ -1,1 +1,3 @@
-# Requirement.txt
+streamlit
+google-generativeai
+Pillow
